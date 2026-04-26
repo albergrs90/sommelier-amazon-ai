@@ -1,0 +1,6 @@
+@SommelierApi_HostAddress = http://localhost:5204
+
+GET {{SommelierApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
